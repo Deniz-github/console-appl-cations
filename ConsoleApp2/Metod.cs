@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         public static int KareninAlanı(int x)
         { int alan = x * x;
+            // karenin alanını döndürür
             return alan;
         }
 
