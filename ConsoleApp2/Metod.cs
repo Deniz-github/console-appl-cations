@@ -18,6 +18,7 @@ namespace ConsoleApp2
 
         public static int DikdörtgeninAlanı(int y, int z)
         {
+            // dikdörtgenin alanı
             int alan = y * z;
             return alan;
         }
