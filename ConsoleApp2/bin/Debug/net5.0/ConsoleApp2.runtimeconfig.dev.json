@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SEALTECH\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SEALTECH\\.nuget\\packages"
+    ]
+  }
+}
